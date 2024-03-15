@@ -1,4 +1,4 @@
-package com.javawhizz.Cloudinary.customer;
+package com.cloudinary.webhook.image;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

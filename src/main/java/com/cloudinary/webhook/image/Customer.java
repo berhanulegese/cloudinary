@@ -1,4 +1,4 @@
-package com.javawhizz.Cloudinary.customer;
+package com.cloudinary.webhook.image;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
